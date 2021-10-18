@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634568368 source:c:\users\arek\desktop\statki\main.cpp
+	<iostream>
+	<cmath>
+	"raylib.h"
+
